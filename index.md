@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Welcome to CISC 322 Group 14
+### Name TBD
 
 You can use the [editor on GitHub](https://github.com/Witts-A/cisc322/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
